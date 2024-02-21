@@ -1,0 +1,14 @@
+Software use system:
+
+	1. Open xampp control panel.
+	2. Start 'Apache' and 'MySQL'.
+	3. Open any other Browser.
+	4. Search "localhost/phpmyadmin".
+	5. Create a new database har name is 'dsms'.
+	6. import our 'dsms.sql' database file.
+	7. Double click DSMS.exe for open our software.
+
+Any problem for nock me.
+
+	Phone No : 01872567260.
+	Email : srmd440@gmail.com
