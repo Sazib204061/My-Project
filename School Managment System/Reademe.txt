@@ -5,10 +5,8 @@ Software use system:
 	3. Open any other Browser.
 	4. Search "localhost/phpmyadmin".
 	5. Create a new database har name is 'dsms'.
-	6. import our 'dsms.sql' database file.
-	7. Double click DSMS.exe for open our software.
+	6. import 'dsms.sql' database file.
+	7. Double-click on DSMS.exe to open this software.
 
-Any problem for nock me.
-
-	Phone No : 01872567260.
+If you face any problem then contact with me 
 	Email : srmd440@gmail.com
